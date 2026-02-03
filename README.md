@@ -21,7 +21,7 @@ Welcome to my Github page! I am Luigi and I am currently finishing my Junior Ful
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bale231&show_icons=true&theme=dark&hide_border=true" />
+	<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bale231&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
