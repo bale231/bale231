@@ -55,8 +55,8 @@ I enjoy working across the full stack, from responsive frontend interfaces to ro
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bale231&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bale231&layout=compact&hide_border=true" height="160" />
+  <img src="https://raw.github-readme-stats.vercel.app/api?username=bale231&show_icons=true&hide_border=true" height="160" />
+  <img src="https://raw.github-readme-stats.vercel.app/api/top-langs/?username=bale231&layout=compact&hide_border=true" height="160" />
 </p>
 
 ---
